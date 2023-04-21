@@ -1,15 +1,21 @@
-body { text-align: center;}
+body { 
+    text-align: center;
+}
+
 #image {
+
 max-width:100%;
 height:auto;
 display: block;
 height:auto;
 margin:auto;
 }
-h1{
+
+h1 {
     text-align: center;
 }
-p{
+
+p {
    text-align: center; 
 }
 
